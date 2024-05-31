@@ -16,7 +16,7 @@
 
 - 📚 Write's Blogs at **[Dev.to](https://dev.to/abdullah-dev0)**
 
-- 💬 💬 Ask me about **Node.js, React, Next.js, MongoDB... or anything [here](https://github.com/Abdullah-dev0/Abdullah-dev0/issues)**
+- 💬 Ask me about **Node.js, React, Next.js, MongoDB... or anything [here](https://github.com/Abdullah-dev0/Abdullah-dev0/issues)**
 
 - ⚡ Fun fact **The world's first computer programmer was a woman named Ada Lovelace.**
 
