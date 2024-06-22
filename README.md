@@ -25,7 +25,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,postgres,mongodb,git,tailwind,docker,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,postgres,mongodb,prisma,git,tailwind,docker,figma,kubernetes,aws,redis,linux,ubuntu)](https://skillicons.dev)
 
 ###
 
