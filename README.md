@@ -40,7 +40,8 @@
 
 ##
 
-<h3 align="left"> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3 align=""> 🤝🏻 &nbsp;Connect with Me </h3>
+<br/>
 <p align="center">
 <a href="https://twitter.com/abdu_lah14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdu_lah14" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abdullah14200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah14200" height="30" width="40" /></a>
