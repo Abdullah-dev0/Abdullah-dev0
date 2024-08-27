@@ -44,7 +44,7 @@
 <br/>
 <p align="center">
 <a href="https://twitter.com/abdu_lah14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdu_lah14" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdullah14200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah14200" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdullah-devv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah14200" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abdullah-142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdullah-142" height="30" width="40" /></a>
 <a href="https://discord.gg/1023918110304124990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4949" height="30" width="40" /></a>
 </p>
