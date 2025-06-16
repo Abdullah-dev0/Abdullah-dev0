@@ -8,9 +8,7 @@
 
 ###
 
-- 🔭 I’m currently working on **My Backend**
-
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Ai**
 
 - 📚 Write's Blogs at **[Dev.to](https://dev.to/abdullah-dev0)**
 
