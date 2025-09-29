@@ -1,4 +1,4 @@
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+<img width="1914" height="955" alt="Screenshot (110)" src="https://github.com/user-attachments/assets/aff1ce3c-b70b-4a48-83ae-97a95a47860b" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdullah!;" />
