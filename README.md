@@ -1,4 +1,7 @@
-[![Screenshot (110)](https://github.com/user-attachments/assets/aff1ce3c-b70b-4a48-83ae-97a95a47860b)](https://abdullahtech.me)
+<a href="https://abdullahtech.me" target="_blank">
+  <img src="https://github.com/user-attachments/assets/aff1ce3c-b70b-4a48-83ae-97a95a47860b" alt="Screenshot (110)" />
+</a>
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdullah!;" />
