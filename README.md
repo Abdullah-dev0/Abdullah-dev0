@@ -1,5 +1,5 @@
 <a href="https://abdullahtech.me" target="_blank">
-  <img src="https://github.com/user-attachments/assets/aff1ce3c-b70b-4a48-83ae-97a95a47860b" alt="Screenshot (110)" />
+<img width="1127" height="609" alt="hero" src="https://github.com/user-attachments/assets/42f9dff1-8683-436e-bccc-161eee19bb2d" />
 </a>
 
 
