@@ -1,5 +1,5 @@
 <a href="https://abdullahtech.me" target="_blank">
-<img width="1127" height="609" alt="hero" src="https://github.com/user-attachments/assets/42f9dff1-8683-436e-bccc-161eee19bb2d" />
+<img width="744" height="356" alt="image" src="https://github.com/user-attachments/assets/b1e5f61c-dcc5-47be-9d56-44e3b2eb4a5b" />
 </a>
 
 
